@@ -1,0 +1,8 @@
+1、设置渐变背景 drawable 中的xml文件
+2、得到版本号(PackageInfo)
+3、MainUI是一个继承Tabactivity3
+自定义title
+
+网站/robots.txt
+
+图片异步加载：使用AsyncTask
